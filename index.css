@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(249, 96, 121);
+}
+.box{
+    width: 300px;
+    height: 270px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    margin-left: 570px;
+    margin-top: 400px;
+}
+h1{
+    position: absolute;
+    margin-left: 116px;
+    margin-top: 50px;
+}
+p{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 100px;
+    /* color: rgb(248, 170, 183); */
+}
+.qz{
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 140px;
+    color: rgb(251, 155, 171);
+}
+.qx{
+    position: absolute;
+    margin-left: 95px;
+    margin-top: 180px;
+    color: rgb(248, 138, 156);
+}
+.box1{
+    width: 300px;
+    height: 320px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    margin-left: 570px;
+    margin-top: 400px;  
+    margin-left: 920px;
+    margin-top: -320px;
+}
+.qc{
+    margin-left: 90px;
+}
+.qb{
+    margin-top: 140px;
+    margin-left: 100px;
+    color: rgb(252, 154, 170);
+}
+.qn{
+    margin-top: 180px;
+    margin-left: 100px;
+    color: rgb(249, 153, 169);
+}
+.qm{
+    margin-top: 220px;
+    color: rgb(251, 132, 152);
+}
+.box2{
+    width: 300px;
+    height: 380px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    margin-left: 570px;
+    margin-top: 400px;  
+    margin-left: 1270px;
+    margin-top: -380px;
+}
+.qa{
+    margin-left: 95px;
+}
+.qf{
+    margin-top: 140px;
+    color: rgb(255, 136, 156);
+}
+.qg{
+    margin-top: 180px;
+    margin-left: 110px;
+    color: rgb(250, 141, 159);
+}
+.qh{
+    margin-top: 220px;
+    margin-left: 110px;
+    color: rgb(248, 124, 144);
+}
+.qj{
+    margin-top: 260px;
+    margin-left: 110px;
+    color: rgb(250, 116, 138);
+}
+.qk{
+    margin-top: 300px;
+    margin-left: 110px;
+    color: rgb(252, 137, 156);
+}
